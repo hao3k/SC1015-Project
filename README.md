@@ -10,9 +10,9 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 4. [Model 3 Random Forest](https://github.com/hao3k/SC1015-Project/blob/4cefb07b7b3c50c0077d0c665f70a75902f69b6f/Model%203%20Random%20Forest.ipynb)
 
 ## Members
-- @hao3k Hang Hao Kuang
-- @      Mak Chee Cheng
-- @Vignesh-Tharun      Vignesh Tharun
+- @hao3k - Hang Hao Kuang
+- @Cheechengm - Mak Chee Cheng
+- @Vignesh-Tharun - Vignesh Tharun
 
 ## Introduction & problem statement
 
