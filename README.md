@@ -29,4 +29,18 @@ The main objective of this project is to predict how good a mobile phone is base
 
 This project aims to predict mobile phone user ratings based on various variables to assist both phone manufacturers and users. It will provide valuable insights into which phone features the user values the most, the critical factors that contribute to a good phone rating, and assist users in sourcing for the phone that suits them best.
 
+## Model Used
+1. Model 1: K Nearest Neightbours Model, GridSearchCV model, Bagging Model
+2. Model 2: Linear and Polynomial Regression Model
+3. Model 3: Random Forest Model
 
+
+## Conclusion
+
+
+##References
+- https://towardsdatascience.com/understanding-random-forest-58381e0602d2
+- https://realpython.com/knn-python/ 
+- https://www.kaggle.com/datasets/anas123siddiqui/mobiles
+- https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04
+- https://www.mygreatlearning.com/blog/knn-algorithm-introduction/
