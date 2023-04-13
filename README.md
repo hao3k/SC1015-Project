@@ -24,6 +24,7 @@ The main objective of this project is to predict how good a mobile phone is base
 1. Helping the brand improve based on which specifications the user feels are better: By analyzing the user ratings, we can identify which phone features the user values the most and which ones need improvement. This information will be beneficial for phone manufacturers as they can improve the phone's features according to the users' needs.
 2. Help the brand predict how well their new phone will fair in the market based on its specifications.
 3. Identifying the deciding factors that users look out for in a good phone: Through this project, we aim to identify the critical factors that contribute to a good phone rating. This knowledge will be useful for phone manufacturers to design phones that cater to the users' requirements.
+
 4.Assisting users in sourcing for the phone that suits them best: By predicting the mobile phone user ratings, we can help users source for the phone that suits their needs. Users can search for a phone based on their requirements, and the model with the highest predicted rating will be the most suitable for them.
 
 This project aims to predict mobile phone user ratings based on various variables to assist both phone manufacturers and users. It will provide valuable insights into which phone features the user values the most, the critical factors that contribute to a good phone rating, and assist users in sourcing for the phone that suits them best.
