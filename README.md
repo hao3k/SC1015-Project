@@ -52,9 +52,9 @@ From our analysis, we have two major insights.
  
 --------------------------------------------------------------------------------------------------------------
 Next are our recommendations for our project and problem.
-Firstly, we recommend that the phone company continue to upgrade their screen and battery qualities to have a higher rating and to stay relevant in the phone market.
-Secondly, even with numerous attempts to improve accuracy, our best score is only 0.4285. which is relatively low. Thus, maybe trying a different model than those attempted might yield a better outcome.
-Lastly, the lack of data in the dataset with all the NA in different predictors and NA being the majority for some predictors resulted in lower accuracy. Thus, trying a different mobile phone dataset with fewer missing data points might improve our model.
+1. We recommend that the phone company continue to upgrade their screen and battery qualities to have a higher rating and to stay relevant in the phone market.
+2. Even with numerous attempts to improve accuracy, our best score is only 0.4285. which is relatively low. Thus, maybe trying a different model than those attempted might yield a better outcome.
+3. The lack of data in the dataset with all the NA in different predictors and NA being the majority for some predictors resulted in lower accuracy. Thus, trying a different mobile phone dataset with fewer missing data points might improve our model.
  
 
 In conclusion, our model is relatively accurate in predicting the Stars rating of mobile phones, and this can provide insights to companies to identify the phone specifications that impact ratings, thereby improving sales and earnings. For potential phone buyers, our model can offer useful information on phone performance based on specific features and user requirements. Therefore, we believe that our predictions using the mobile phone dataset are valuable in the world of emerging technologies.
