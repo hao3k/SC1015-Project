@@ -74,3 +74,12 @@ In conclusion, our model is relatively accurate in predicting the Stars rating o
 - https://www.kaggle.com/datasets/anas123siddiqui/mobiles
 - https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04
 - https://www.mygreatlearning.com/blog/knn-algorithm-introduction/
+
+
+## License
+Copyright (c) 2023 Hang Hao Kuang, Mak Chee Cheng, Vignesh Tharun
+
+Unless otherwise specified, this project (all of the files in this repository) 
+is licensed under the MIT License.
+
+For licensing information, see LICENSE.
