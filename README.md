@@ -66,7 +66,7 @@ In conclusion, our model is relatively accurate in predicting the Stars rating o
 4. Model 2 - Mak Chee Cheng
 5. Model 3 - Vignesh Tharun
 6. Slides and Voice Recording - Hang Hao Kuang & Mak Chee Cheng
-7. Video Compilation, Enhancment & Subtitles - Vignesh Tharun
+7. Video Compilation, Enhancement & Subtitles - Vignesh Tharun
 
 ## References
 - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
