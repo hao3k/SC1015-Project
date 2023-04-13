@@ -2,7 +2,7 @@
 
 ## About
 
-This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Mobile phones from Kaggle (https://www.kaggle.com/datasets/anas123siddiqui/mobiles). For detailed walkthrough, please view the source code in order from:
+This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on Mobile phones from Kaggle (https://www.kaggle.com/datasets/anas123siddiqui/mobiles). Detailed analysis are inside the notebook file under the markdown section. For detailed walkthrough, please view the source code in order from:
 
 1. Data Preprocessing Cleaning and Exploratory Analysis ()
 2. Model 1 K Nearest Neighbours ()
