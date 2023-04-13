@@ -12,7 +12,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 ## Members
 - @hao3k Hang Hao Kuang
 - @      Mak Chee Cheng
-- @      Vignesh Tharun
+- @Vignesh-Tharun      Vignesh Tharun
 
 ## Introduction & problem statement
 
