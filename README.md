@@ -36,9 +36,39 @@ This project aims to predict mobile phone user ratings based on various variable
 
 
 ## Conclusion
+Upon comparing the three major models of k Nearest Neighbours, Linear/Polynomial Regression and random forest, our attempts indicates that K Nearest neighbours is the most accurate model with the lowest Mean Squared Error (MSE) of 0.0283 & the highest score of 0.4285. Therefore, K Nearest Neighbours is chosen as our final model for our problem statement.
 
+We have four main interesting observations.
+1. We realised that, despite using a more complex model such as bagging on top of k nearest neighbours, the accuracy did not increase, thus proving that a more complex model does not neccesarily improve the accuracy of the model.
+2. Adding more predictors does not always improve the model but, in turn, causes overfitting and reduces accuracy.
+3. Larger screen size seems to be the most prominent specification in deciding the phone's star rating.
+4. Due to the nature of our star rating being from 3.3 to 4.7 and a single decimal place, It can be predicted as a numerical or categorical variable, which opens up more possibilities for more models.
+ 
+--------------------------------------------------------------------------------------------------------------
+From our analysis, we have two major insights.
+1. A bigger screen size and battery is positively correlated with a higher star rating. This might be because a bigger screen enables the user to have more things displayed at the same time, and the battery allow loger usage which helps to improve the user's productivity, thus placing it at a higher demand and rating.
+2. higher sale price seems to result in a better rating, which might be due to the user perceiving a higher sale price as a margin for better quality, thus causing people to pursue a higher priced phone.
+ 
+ 
+--------------------------------------------------------------------------------------------------------------
+Next are our recommendations for our project and problem.
+Firstly, we recommend that the phone company continue to upgrade their screen and battery qualities to have a higher rating and to stay relevant in the phone market.
+Secondly, even with numerous attempts to improve accuracy, our best score is only 0.4285. which is relatively low. Thus, maybe trying a different model than those attempted might yield a better outcome.
+Lastly, the lack of data in the dataset with all the NA in different predictors and NA being the majority for some predictors resulted in lower accuracy. Thus, trying a different mobile phone dataset with fewer missing data points might improve our model.
+ 
 
-##References
+In conclusion, our model is relatively accurate in predicting the Stars rating of mobile phones, and this can provide insights to companies to identify the phone specifications that impact ratings, thereby improving sales and earnings. For potential phone buyers, our model can offer useful information on phone performance based on specific features and user requirements. Therefore, we believe that our predictions using the mobile phone dataset are valuable in the world of emerging technologies.
+
+## Task Allocation
+1. Cleaning & preprocessing - All Members
+2. Exploratory analysis - All Members
+3. Model 1 - Hang Hao Kuang
+4. Model 2 - Mak Chee Cheng
+5. Model 3 - Vignesh Tharun
+6. Slides and Voice Recording - Hang Hao Kuang & Mak Chee Cheng
+7. Video Compilation, Enhancment & Subtitles - Vignesh Tharun
+
+## References
 - https://towardsdatascience.com/understanding-random-forest-58381e0602d2
 - https://realpython.com/knn-python/ 
 - https://www.kaggle.com/datasets/anas123siddiqui/mobiles
