@@ -7,7 +7,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 1. [Data Preprocessing, Cleaning and Exploratory Analysis](https://github.com/hao3k/SC1015-Project/blob/03f3bb1b06dbaa1e1276358b4498a3e190974c7d/Data%20Preprocessing,%20Cleaning%20and%20Exploratory%20Analysis.ipynb)
 2. [Model 1 K Nearest Neighbours](https://github.com/hao3k/SC1015-Project/blob/03f3bb1b06dbaa1e1276358b4498a3e190974c7d/Model%201%20K%20Nearest%20Neighbours.ipynb)
 3. Model 2 Linear Polynomial Regression ()
-4. Model 3 Random Forest ()
+4. [Model 3 Random Forest](https://github.com/hao3k/SC1015-Project/blob/4cefb07b7b3c50c0077d0c665f70a75902f69b6f/Model%203%20Random%20Forest.ipynb)
 
 ## Members
 - @hao3k Hang Hao Kuang
