@@ -14,7 +14,7 @@ This is our Mini-Project for SC1015 (Introduction to Data Science and Artificial
 - @Cheechengm - Mak Chee Cheng
 - @Vignesh-Tharun - Vignesh Tharun
 
-## Introduction & problem statement
+## Introduction & Problem Statement
 
 The rise of smartphones has revolutionized the way we communicate and interact with the world around us. With numerous mobile phones of different brands and specifications available, it can be challenging to determine which phone is the most suitable for a user's needs. Therefore, the aim of our project is to predict mobile phone user ratings based on various variables.
 
@@ -47,7 +47,7 @@ We have four main interesting observations.
 --------------------------------------------------------------------------------------------------------------
 From our analysis, we have two major insights.
 1. A bigger screen size and battery is positively correlated with a higher star rating. This might be because a bigger screen enables the user to have more things displayed at the same time, and the battery allow loger usage which helps to improve the user's productivity, thus placing it at a higher demand and rating.
-2. higher sale price seems to result in a better rating, which might be due to the user perceiving a higher sale price as a margin for better quality, thus causing people to pursue a higher priced phone.
+2. Higher sale price seems to result in a better rating, which might be due to the user perceiving a higher sale price as a margin for better quality, thus causing people to pursue a higher priced phone.
  
  
 --------------------------------------------------------------------------------------------------------------
