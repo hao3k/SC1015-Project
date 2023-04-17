@@ -75,6 +75,9 @@ In conclusion, our model is relatively accurate in predicting the Stars rating o
 - https://medium.datadriveninvestor.com/random-forest-pros-and-cons-c1c42fb64f04
 - https://www.mygreatlearning.com/blog/knn-algorithm-introduction/
 
+## Miscellaneous/MISC folder
+- [Unofficial Report](https://github.com/hao3k/SC1015-Project/blob/9d85d133fee36e1ad5638defa614b2b723b2bea0/MISC/Sc1015%20C133%20Group%205%20Unofficial%20Report.pdf) - Compilation of the things covered in jupyter notebook without the source code
+- [Model 2 Datasheet](https://github.com/hao3k/SC1015-Project/blob/9d85d133fee36e1ad5638defa614b2b723b2bea0/MISC/Model%202%20Datasheet.pdf) - Compilation of Model 2 attempts MSE and Score
 
 ## License
 Copyright (c) 2023 Hang Hao Kuang, Mak Chee Cheng, Vignesh Tharun
